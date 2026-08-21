@@ -6,3 +6,4 @@ dccwiki.com
 walthers.com
 ccugame.app
 themoviedb.org
+searxng.org
