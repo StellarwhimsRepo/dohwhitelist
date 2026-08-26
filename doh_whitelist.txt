@@ -8,3 +8,4 @@ ccugame.app
 themoviedb.org
 searxng.org
 php.net
+protonvpn.com
