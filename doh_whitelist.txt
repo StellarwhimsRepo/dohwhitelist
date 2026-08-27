@@ -9,3 +9,4 @@ themoviedb.org
 searxng.org
 php.net
 protonvpn.com
+proton.me
