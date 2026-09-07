@@ -6,6 +6,7 @@ dccwiki.com
 walthers.com
 ccugame.app
 themoviedb.org
+media.themoviedb.org
 searxng.org
 php.net
 protonvpn.com
