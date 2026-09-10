@@ -11,3 +11,5 @@ searxng.org
 php.net
 protonvpn.com
 proton.me
+howtogeek.com
+howtogeekimages.com
