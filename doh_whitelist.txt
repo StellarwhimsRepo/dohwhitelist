@@ -1,5 +1,5 @@
 # Title: stellarwhims doh whitelist for personal use only
-# Description: a list to use as an alias on your firewall rules to allow access to websites that use DoH dns.
+# Description: a list to use as an alias on your firewall rules to allow access to websites that may get blocked as a consequence of blocking DoH dns.
 # one.one.one.one
 dcc-ex.com
 dccwiki.com
