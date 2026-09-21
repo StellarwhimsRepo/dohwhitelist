@@ -9,8 +9,11 @@ themoviedb.org
 media.themoviedb.org
 searxng.org
 php.net
-^.*\.protonvpn\.com$
-^.*\.proton\.me$
+protonvpn.com
+account.protonvpn.com
+protonweb.com
+vpncdn.protonweb.com
+vpn-api.proton.me
 howtogeek.com
 howtogeekimages.com
-^.*\.protonweb\.com$
+
